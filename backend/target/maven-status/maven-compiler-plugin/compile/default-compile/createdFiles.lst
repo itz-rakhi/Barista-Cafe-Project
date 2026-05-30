@@ -1,0 +1,11 @@
+com\baristacafe\model\Order.class
+com\baristacafe\repository\OrderRepository.class
+com\baristacafe\model\User.class
+com\baristacafe\controller\CafeController.class
+com\baristacafe\BaristaCafeApplication.class
+com\baristacafe\repository\UserRepository.class
+com\baristacafe\repository\MenuItemRepository.class
+com\baristacafe\repository\ReservationRepository.class
+com\baristacafe\model\MenuItem.class
+com\baristacafe\model\Reservation.class
+com\baristacafe\controller\AdminController.class

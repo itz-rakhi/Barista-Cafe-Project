@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <category name="Coffee">
+    <item>
+      <name>Cinnamon Cappuccino</name>
+      <price>4.50</price>
+      <description>Espresso with steamed milk and cinnamon dust.</description>
+    </item>
+    <item>
+      <name>Velvet Latte</name>
+      <price>5.20</price>
+      <description>Smooth latte with vanilla velvet foam.</description>
+    </item>
+    <item>
+      <name>Cold Brew</name>
+      <price>4.80</price>
+      <description>Slow-steeped cold brew, bold and smooth.</description>
+    </item>
+  </category>
+  <category name="Tea">
+    <item>
+      <name>Golden Matcha</name>
+      <price>4.00</price>
+      <description>Creamy matcha with golden topping.</description>
+    </item>
+    <item>
+      <name>Masala Chai</name>
+      <price>3.50</price>
+      <description>Spiced Indian tea with ginger and cardamom.</description>
+    </item>
+  </category>
+  <category name="Desserts">
+    <item>
+      <name>Berry Tart</name>
+      <price>3.80</price>
+      <description>Buttery tart filled with fresh berries.</description>
+    </item>
+    <item>
+      <name>Chocolate Lava Cake</name>
+      <price>5.50</price>
+      <description>Warm cake with molten chocolate center.</description>
+    </item>
+  </category>
+  <category name="Snacks">
+    <item>
+      <name>Cheese Croissant</name>
+      <price>3.50</price>
+      <description>Flaky croissant stuffed with melted cheese.</description>
+    </item>
+  </category>
+  <category name="Fast Food">
+    <item>
+      <name>Crispy Chicken Sandwich</name>
+      <price>6.50</price>
+      <description>Toast, grilled chicken, cheese, and sauce.</description>
+    </item>
+    <item>
+      <name>Classic Burger</name>
+      <price>7.50</price>
+      <description>Beef patty, lettuce, tomato, and special sauce.</description>
+    </item>
+  </category>
+</menu>

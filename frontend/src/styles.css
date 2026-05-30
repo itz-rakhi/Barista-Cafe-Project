@@ -1,0 +1,10 @@
+:root { color-scheme: light; font-family: 'Segoe UI', sans-serif; }
+body[data-theme='dark'] { background: #17120f; color: #fff7ee; }
+body[data-theme='dark'] .card, body[data-theme='dark'] .navbar { background: #231a15; color: #fff7ee; }
+body[data-theme='dark'] .btn-outline-dark { color: #fff; border-color: #fff; }
+body[data-theme='dark'] .text-muted { color: #d9cbb8 !important; }
+body { background: linear-gradient(135deg, #fffaf5, #f6efe8); }
+.app-shell { min-height: 100vh; }
+.navbar { background: rgba(255,255,255,0.88); backdrop-filter: blur(12px); }
+.hero-section { background: radial-gradient(circle at top, #fff6ea, #f1e3d2 45%, #e5d0b3 100%); }
+.menu-card img { height: 180px; object-fit: cover; }
